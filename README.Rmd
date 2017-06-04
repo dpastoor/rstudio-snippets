@@ -15,3 +15,9 @@ git clone https://github.com/dpastoor/rstudio-snippets.git snippets
 
 You may or may not need to remove that existing folder, if it exists, before cloning.
 
+## extra snippets
+
+### testing-related
+
+I prefer the describe-style testing available in testthat, 
+therefore have two snippets `ditt` and `itt` for quickly scaffolding the describe/it syntaxes
