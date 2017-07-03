@@ -1,16 +1,16 @@
 rstudio-snippets
 =======
 
-Clone this repository as a folder at `~/.R/rstudio`
+Clone this repository as a folder at `~/.R`
 
-in the case of windows this will actually be at `~/Documents/.R/rstudio`, at least
+in the case of windows this will actually be at `~/Documents/.R`, at least
 on my machine
 
 Eg on windows do:
 
 ```
-cd ~/Documents/.R
-git clone https://github.com/dpastoor/rstudio-snippets.git rstudio
+cd ~/Documents/
+git clone https://github.com/dpastoor/rstudio-snippets.git .R
 ```
 
 You may or may not need to remove that existing folder, if it exists, before cloning.
